@@ -18,7 +18,7 @@ To use this library in your code:
 * add import in your `dart` code:
 ```dart
 
-  import 'package:countries_flag/countries_flag.dart';
+  import 'package:jam_icons/jam_icons.dart';
 
 ```
 
@@ -26,10 +26,9 @@ To use this library in your code:
 
 ```dart
 
-Icon(
-   Icomoon.codepen,
-      size: 60,
-      ),
+Icon(Icomoon.codepen,size: 60),
+Icon(Icomoon.apple_circle,size: 60),
+Icon(Icomoon.battery_charging_f,size: 60),
 
 ```
 
