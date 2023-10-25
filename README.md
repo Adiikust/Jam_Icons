@@ -16,9 +16,11 @@ To use this library in your code:
     jam_icons:
   ```
 * add import in your `dart` code:
-* 
 ```dart
+
   import 'package:countries_flag/countries_flag.dart';
+
+```
 
 ## Usage
 
