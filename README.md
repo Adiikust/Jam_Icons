@@ -33,4 +33,6 @@ Icon(JamIcons.battery_charging_f,size: 60),
 ```
 
 ## Copyright and License
+
 >Copyright © 2022 **[AdiiDeveloper](https://github.com/Adiikust)**.
+
