@@ -1,39 +1,35 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages).
+## Jam_Icons
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages).
--->
+Introducing the Jam Icons Flutter Package: Unlock a stunning collection of over 940 pixel perfect icons, ideal for a wide range of common actions and items.
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+This package seamlessly integrates the Jam Icons collection into your Flutter project, providing you with a selection of exquisite outlined and rounded icons.
 
-## Features
+## Installation
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+To use this library in your code:
 
-## Getting started
+* add a dependency in your `pubspec.yaml` :
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+   ```yaml
+  dependencies:
+    jam_icons:
+  ```
+* add import in your `dart` code:
+* 
+```dart
+  import 'package:countries_flag/countries_flag.dart';
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
 ```dart
-const like = 'sample';
+
+Icon(
+   Icomoon.codepen,
+      size: 60,
+      ),
+
 ```
 
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+## Copyright and License
+>Copyright © 2022 **[AdiiDeveloper](https://github.com/Adiikust)**.
