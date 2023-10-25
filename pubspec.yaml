@@ -1,7 +1,8 @@
 name: jam_icons
-description: A new Flutter package project.
+description: Introducing the Jam Icons Flutter Package  Unlock a stunning collection of over 940 pixel perfect icons, ideal for a wide range of common actions and items.
 version: 0.0.1
-homepage:
+repository: https://github.com/Adiikust/Jam_Icons.git
+homepage: https://github.com/Adiikust
 
 environment:
   sdk: '>=2.19.6 <3.0.0'
