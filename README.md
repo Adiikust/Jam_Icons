@@ -26,9 +26,9 @@ To use this library in your code:
 
 ```dart
 
-Icon(Icomoon.codepen,size: 60),
-Icon(Icomoon.apple_circle,size: 60),
-Icon(Icomoon.battery_charging_f,size: 60),
+Icon(JamIcons.codepen,size: 60),
+Icon(JamIcons.apple_circle,size: 60),
+Icon(JamIcons.battery_charging_f,size: 60),
 
 ```
 

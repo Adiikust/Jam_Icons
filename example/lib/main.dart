@@ -31,27 +31,27 @@ class MyApp extends StatelessWidget {
             child: Column(
               children: const [
                 Icon(
-                  Icomoon.codepen,
+                  JamIcons.codepen,
                   size: 60,
                 ),
                 SizedBox(height: 20),
                 Icon(
-                  Icomoon.accessibility,
+                  JamIcons.accessibility,
                   size: 60,
                 ),
                 SizedBox(height: 20),
                 Icon(
-                  Icomoon.calculator,
+                  JamIcons.calculator,
                   size: 60,
                 ),
                 SizedBox(height: 20),
                 Icon(
-                  Icomoon.apple_circle,
+                  JamIcons.apple_circle,
                   size: 60,
                 ),
                 SizedBox(height: 20),
                 Icon(
-                  Icomoon.battery_charging_f,
+                  JamIcons.battery_charging_f,
                   size: 60,
                 )
               ],

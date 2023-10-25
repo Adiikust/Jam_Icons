@@ -8,8 +8,8 @@
 import 'package:flutter/widgets.dart';
 import 'package:jam_icons/src/icon_data.dart';
 
-class Icomoon {
-  Icomoon._();
+class JamIcons {
+  JamIcons._();
 
   static const String _fontFamily = 'icomoon';
 
