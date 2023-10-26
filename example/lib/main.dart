@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
             child: Column(
               children: const [
                 Icon(
-                  JamIcons.px,
+                  JamIcons.anchor,
                   size: 60,
                 ),
                 SizedBox(height: 20),
@@ -41,17 +41,17 @@ class MyApp extends StatelessWidget {
                 ),
                 SizedBox(height: 20),
                 Icon(
-                  JamIcons.accessibility,
+                  JamIcons.appleCircle,
                   size: 60,
                 ),
                 SizedBox(height: 20),
                 Icon(
-                  JamIcons.activity,
+                  JamIcons.keyboard,
                   size: 60,
                 ),
                 SizedBox(height: 20),
                 Icon(
-                  JamIcons.airbnb,
+                  JamIcons.headsetF,
                   size: 60,
                 )
               ],
